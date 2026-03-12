@@ -6,16 +6,6 @@
 <img src="https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
-<p align="center">
-DevOps Engineer focused on cloud infrastructure, Kubernetes platforms, and automation.
-</p>
-
-<p align="center">
-Currently working with AWS infrastructure and containerized environments, building CI/CD pipelines, managing Kubernetes workloads, and integrating observability and security tooling for modern microservice platforms.
-</p>
-
----
-
 <h2 align="center">Professional Experience</h2>
 
 <p align="center">
