@@ -21,7 +21,7 @@ Working with AWS infrastructure, Kubernetes workloads (EKS/ECS), CI/CD pipelines
 <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/vijaymanda/">
+<a href="https://www.linkedin.com/in/manda-vijay/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
