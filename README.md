@@ -53,7 +53,7 @@ AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab C
 <h3 align="center">Kubernetes Homelab Platform</h3>
 
 <a href="https://github.com/vijaymanda06/My-Home-lab">
-<img src="https://raw.githubusercontent.com/vijaymanda06/My-Home-lab/main/assets/cover.png" width="100%">
+<img src="https://github.com/vijaymanda06/My-Home-lab/blob/main/assets/what-i-built.png" width="100%">
 </a>
 
 <p>
