@@ -62,7 +62,7 @@ AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab C
 
 <td width="50%" valign="top">
 
-<h3 align="center">My Kubernetes Homelab /h3>
+<h3 align="center">My Kubernetes Homelab</h3>
 
 <a href="https://github.com/vijaymanda06/My-Home-lab">
 <img src="https://github.com/vijaymanda06/My-Home-lab/blob/main/assets/what-i-built.png" width="100%">
@@ -92,7 +92,7 @@ Production-style Kubernetes platform built using RKE2.
 
 <td width="50%" valign="top">
 
-<h3 align="center">Ansible AWX Automation Platform ON EKS</h3>
+<h3 align="center">Ansible AWX Automation Platform</h3>
 
 <a href="https://github.com/vijaymanda06/AWX-Automation-EKS">
 <img src="https://raw.githubusercontent.com/vijaymanda06/AWX-Automation-EKS/main/Assets/architecture-overview.png" width="100%">
