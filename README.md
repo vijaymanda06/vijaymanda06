@@ -1,6 +1,12 @@
 <h1 align="center">Vijay Manda</h1>
 
 <p align="center">
+<img src="https://img.shields.io/badge/DevOps%20Engineer-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud%20Infrastructure-orange?style=for-the-badge&logo=amazonaws">
+<img src="https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
+
+<p align="center">
 DevOps Engineer • Cloud Infrastructure • Kubernetes
 </p>
 <h2 align="center">About</h2>
