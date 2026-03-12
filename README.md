@@ -1,11 +1,12 @@
 <h1 align="center">Vijay Manda</h1>
 
 <p align="center">
-DevOps Engineer • Cloud Infrastructure • Kubernetes
+DevOps Engineer | Cloud Infrastructure | Kubernetes
 </p>
 
 <p align="center">
 <a href="https://vijay-manda.web.app/">Portfolio</a> •
+<a href="https://github.com/vijaymanda06">GitHub</a> •
 <a href="https://www.linkedin.com/in/vijaymanda/">LinkedIn</a> •
 <a href="mailto:mandavijayks@gmail.com">Email</a>
 </p>
@@ -18,47 +19,66 @@ DevOps Engineer • Cloud Infrastructure • Kubernetes
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,gitlab,python,bash,linux,grafana,prometheus" />
 </p>
 
-Cloud: AWS (EKS, ECS, EC2, IAM, VPC)  
-Containers: Docker, Kubernetes, Helm  
-Infrastructure as Code: Terraform, Ansible  
-CI/CD: Jenkins, GitLab CI, ArgoCD  
-Observability: Prometheus, Grafana, CloudWatch  
-DevSecOps: Snyk, Trivy, SonarQube  
+<p align="center">
+AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab CI • Python • Bash • Linux • Grafana • Prometheus
+</p>
 
 ---
 
 ## Featured Projects
 
-### Kubernetes Platform Homelab
+<table>
+<tr>
 
-Production-style Kubernetes platform built using RKE2.
+<td width="50%">
 
-• 3-node cluster with KVM worker nodes  
-• MetalLB for LoadBalancer networking  
+<h3>Kubernetes Homelab Platform</h3>
+
+<a href="https://github.com/vijaymanda06/My-Home-lab">
+<img src="https://raw.githubusercontent.com/vijaymanda06/My-Home-lab/main/cover.png" width="100%">
+</a>
+
+Production-style Kubernetes environment built using RKE2.
+
+• 3 node Kubernetes cluster with KVM workers  
+• MetalLB load balancing  
 • Longhorn distributed storage  
 • Prometheus and Grafana monitoring  
 • New Relic observability integration  
 • Falco runtime security and Kubescape compliance scanning  
-• Secure cluster access through Tailscale VPN  
+• Secure access using Tailscale VPN  
 
-Repository  
-https://github.com/vijaymanda06/My-Home-lab
+<p>
+<a href="https://github.com/vijaymanda06/My-Home-lab">View Repository</a>
+</p>
+
+</td>
 
 
----
+<td width="50%">
 
-### Infrastructure Automation Platform (AWX on EKS)
+<h3>Infrastructure Automation Platform (AWX)</h3>
 
-Infrastructure automation platform using AWS and Ansible AWX.
+<a href="https://github.com/vijaymanda06/AWX-Automation-EKS">
+<img src="https://raw.githubusercontent.com/vijaymanda06/AWX-Automation-EKS/main/cover.png" width="100%">
+</a>
+
+Infrastructure automation platform built on Amazon EKS.
 
 • Terraform infrastructure provisioning  
-• Kubernetes platform deployed on Amazon EKS  
-• AWX automation platform installed via Helm  
-• GitLab CI pipeline triggering AWX workflows  
+• Kubernetes platform deployed on AWS EKS  
+• Ansible AWX installed via Helm  
+• GitLab CI pipeline triggering automation workflows  
 • Secure automation using AWS Systems Manager  
 
-Repository  
-https://github.com/vijaymanda06/AWX-Automation-EKS
+<p>
+<a href="https://github.com/vijaymanda06/AWX-Automation-EKS">View Repository</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -73,8 +93,10 @@ Exam Scheduled May 2026
 
 ## Education
 
-Master of Computer Applications — Andhra University  
-Dec 2024 – Dec 2026  
+Master of Computer Applications  
+Andhra University  
+2024 – 2026  
 
-Bachelor of Computer Applications — Gayatri Vidya Parishad  
-May 2019 – May 2022
+Bachelor of Computer Applications  
+Gayatri Vidya Parishad  
+2019 – 2022
