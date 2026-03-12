@@ -3,7 +3,28 @@
 <p align="center">
 DevOps Engineer • Cloud Infrastructure • Kubernetes
 </p>
+<h2 align="center">About</h2>
 
+<p align="center">
+DevOps Engineer focused on cloud infrastructure, Kubernetes platforms, and automation.
+</p>
+
+<p align="center">
+Currently working with AWS infrastructure and containerized environments, building CI/CD pipelines, managing Kubernetes workloads, and integrating observability and security tooling for modern microservice platforms.
+</p>
+
+---
+
+<h2 align="center">Professional Experience</h2>
+
+<p align="center">
+
+<b>DXC Technology</b> — Analyst II, Infrastructure Services  
+Bengaluru • Dec 2022 – Present  
+
+Working with AWS infrastructure, Kubernetes workloads (EKS/ECS), CI/CD pipelines using Jenkins and GitLab, and monitoring systems supporting enterprise applications.
+
+</p>
 <p align="center">
 <a href="https://vijay-manda.web.app/">
 <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
