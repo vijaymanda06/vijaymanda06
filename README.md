@@ -20,7 +20,7 @@ DevOps Engineer • Cloud Infrastructure • Kubernetes
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Technical Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,gitlab,python,bash,linux,grafana,prometheus&perline=6"/>
@@ -28,6 +28,17 @@ DevOps Engineer • Cloud Infrastructure • Kubernetes
 
 <p align="center">
 AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab CI • Python • Bash • Linux • Grafana • Prometheus
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Helm-Kubernetes%20Package%20Manager-blue?style=flat&logo=helm">
+<img src="https://img.shields.io/badge/ArgoCD-GitOps-orange?style=flat&logo=argo">
+<img src="https://img.shields.io/badge/CloudWatch-AWS%20Monitoring-orange?style=flat&logo=amazonaws">
+<img src="https://img.shields.io/badge/Datadog-Observability-purple?style=flat&logo=datadog">
+<img src="https://img.shields.io/badge/New%20Relic-APM-green?style=flat&logo=newrelic">
+<img src="https://img.shields.io/badge/Trivy-Container%20Security-blue?style=flat">
+<img src="https://img.shields.io/badge/Snyk-Dependency%20Security-4C4A73?style=flat&logo=snyk">
+<img src="https://img.shields.io/badge/SonarQube-Code%20Analysis-blue?style=flat&logo=sonarqube">
 </p>
 
 ---
@@ -51,11 +62,11 @@ Production-style Kubernetes platform built using RKE2.
 
 • 3 node Kubernetes cluster with KVM worker nodes  
 • MetalLB networking for LoadBalancer services  
-• Longhorn distributed storage for persistent volumes  
+• Longhorn distributed storage  
 • Prometheus and Grafana monitoring stack  
 • New Relic observability integration  
 • Falco runtime security and Kubescape compliance scanning  
-• Secure remote access using Tailscale VPN  
+• Secure remote cluster access using Tailscale VPN  
 
 </p>
 
@@ -81,9 +92,9 @@ Infrastructure automation platform deployed on Amazon EKS.
 
 • Terraform infrastructure provisioning  
 • Kubernetes platform deployed on AWS EKS  
-• Ansible AWX installed using Helm  
+• Ansible AWX automation platform  
 • GitLab CI pipeline triggering automation workflows  
-• Secure infrastructure automation using AWS Systems Manager  
+• Secure automation using AWS Systems Manager  
 
 </p>
 
@@ -110,7 +121,7 @@ Infrastructure automation platform deployed on Amazon EKS.
 <p align="center">
 Microsoft Certified DevOps Engineer Expert — 2025  
 <br>
-Certified Kubernetes Administrator (CKA) — Exam scheduled May 2026
+Certified Kubernetes Administrator (CKA) — Exam Scheduled May 2026
 </p>
 
 ---
