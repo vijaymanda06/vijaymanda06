@@ -80,7 +80,7 @@ Production-style Kubernetes platform built using RKE2.
 
 <td width="50%" valign="top">
 
-<h3 align="center">Infrastructure Automation Platform</h3>
+<h3 align="center">Ansible AWX Automation Platform ON EKS</h3>
 
 <a href="https://github.com/vijaymanda06/AWX-Automation-EKS">
 <img src="https://raw.githubusercontent.com/vijaymanda06/AWX-Automation-EKS/main/Assets/architecture-overview.png" width="100%">
