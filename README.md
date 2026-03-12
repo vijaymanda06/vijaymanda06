@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-DevOps Engineer • Cloud Infrastructure • Kubernetes
-</p>
-<h2 align="center">About</h2>
-
-<p align="center">
 DevOps Engineer focused on cloud infrastructure, Kubernetes platforms, and automation.
 </p>
 
