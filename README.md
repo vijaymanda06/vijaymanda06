@@ -2,8 +2,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/DevOps%20Engineer-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cloud%20Infrastructure-orange?style=for-the-badge&logo=amazonaws">
-<img src="https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
 <h2 align="center">Professional Experience</h2>
