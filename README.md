@@ -88,7 +88,7 @@ AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab C
 <h3 align="center">Ansible AWX Automation Platform</h3>
 
 <a href="https://github.com/vijaymanda06/AWX-Automation-EKS">
-<img src="https://raw.githubusercontent.com/vijaymanda06/AWX-Automation-EKS/main/Assets/architecture-overview.png" width="100%">
+<img src="https://raw.githubusercontent.com/vijaymanda06/AWX-Automation-EKS/main/Assets/Main.png" width="100%">
 </a>
 
 - Built a secure **infrastructure automation platform** on AWS using **Terraform, Amazon EKS, AWX, and Ansible** to automate operations across private EC2 instances.
