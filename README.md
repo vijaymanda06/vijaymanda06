@@ -63,20 +63,17 @@ AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab C
 <h3 align="center">Kubernetes Self-Hosted Home Lab</h3>
 
 <a href="https://github.com/vijaymanda06/kubernetes-self-hosted-home-lab.git">
-<img src="https://github.com/vijaymanda06/kubernetes-self-hosted-home-lab.git/blob/main/Screenshots/Main.png" width="100%">
+<img src="https://github.com/vijaymanda06/kubernetes-self-hosted-home-lab/blob/main/screenshots/architecture.jpg" width="100%">
 </a>
 
 <p>
 
-Production-style Kubernetes platform built using RKE2.
-
-• 3 node Kubernetes cluster with KVM worker nodes  
-• MetalLB networking for LoadBalancer services  
-• Longhorn distributed storage  
-• Prometheus and Grafana monitoring stack  
-• New Relic observability integration  
-• Falco runtime security and Kubescape compliance scanning  
-• Secure remote cluster access using Tailscale VPN  
+Built a self-hosted hybrid Kubernetes platform using kubeadm with an Ubuntu control plane and Oracle Cloud ARM worker nodes.
+Implemented production-style observability using Prometheus, Grafana, Alertmanager, Node Exporter, and kube-state-metrics with Slack alerting.
+Designed a centralized logging pipeline using Grafana Alloy and Loki for Kubernetes log aggregation and troubleshooting.
+Integrated Falco for runtime threat detection and Trivy Operator for continuous container image vulnerability scanning.
+Configured Longhorn distributed storage with persistent volumes for Grafana, Prometheus, Alertmanager, Loki, and Open WebUI.
+Secured remote access using Tailscale + MagicDNS and deployed Open WebUI with experimental Kubernetes MCP integration for AI-assisted operations. 
 
 </p>
 
