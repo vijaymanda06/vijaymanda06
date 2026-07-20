@@ -91,17 +91,12 @@ AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab C
 <img src="https://raw.githubusercontent.com/vijaymanda06/AWX-Automation-EKS/main/Assets/architecture-overview.png" width="100%">
 </a>
 
-<p>
-
-Infrastructure automation platform deployed on Amazon EKS.
-
-• Terraform infrastructure provisioning  
-• Kubernetes platform deployed on AWS EKS  
-• Ansible AWX automation platform  
-• GitLab CI pipeline triggering automation workflows  
-• Secure automation using AWS Systems Manager  
-
-</p>
+- Built a secure **infrastructure automation platform** on AWS using **Terraform, Amazon EKS, AWX, and Ansible** to automate operations across private EC2 instances.
+- Created **Golden AMIs with Packer** and provisioned a reusable AWS environment including VPC, EKS, RDS, IAM, and AWS Secrets Manager.
+- Integrated **GitLab CI** with the **AWX REST API** to trigger Ansible playbooks automatically as part of the CI/CD pipeline.
+- Managed a **private EC2 fleet without SSH**, using **AWS Systems Manager (SSM)** to execute remote commands securely.
+- Deployed AWX on Kubernetes using **Helm** and integrated **External Secrets Operator** with **AWS Secrets Manager** for centralized secret management.
+- Implemented an **immutable infrastructure workflow** where standardized Golden AMIs and automated playbooks enabled consistent, repeatable server provisioning and deployments.
 
 <p align="center">
 <a href="https://github.com/vijaymanda06/AWX-Automation-EKS">
