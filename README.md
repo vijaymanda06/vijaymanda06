@@ -66,16 +66,14 @@ AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab C
 <img src="https://github.com/vijaymanda06/kubernetes-self-hosted-home-lab/blob/main/screenshots/architecture.jpg" width="100%">
 </a>
 
-<p>
+## 🚀 Project Highlights
 
-Built a self-hosted hybrid Kubernetes platform using kubeadm with an Ubuntu control plane and Oracle Cloud ARM worker nodes.
-Implemented production-style observability using Prometheus, Grafana, Alertmanager, Node Exporter, and kube-state-metrics with Slack alerting.
-Designed a centralized logging pipeline using Grafana Alloy and Loki for Kubernetes log aggregation and troubleshooting.
-Integrated Falco for runtime threat detection and Trivy Operator for continuous container image vulnerability scanning.
-Configured Longhorn distributed storage with persistent volumes for Grafana, Prometheus, Alertmanager, Loki, and Open WebUI.
-Secured remote access using Tailscale + MagicDNS and deployed Open WebUI with experimental Kubernetes MCP integration for AI-assisted operations. 
-
-</p>
+- Built a **self-hosted hybrid Kubernetes platform** using **kubeadm** with an Ubuntu control plane and Oracle Cloud ARM worker nodes.
+- Implemented **production-grade observability** using **Prometheus, Grafana, Alertmanager, Node Exporter, and kube-state-metrics** with **Slack alerting**.
+- Designed a **centralized logging pipeline** using **Grafana Alloy** and **Loki** for cluster-wide log aggregation and troubleshooting.
+- Integrated **Falco** for runtime threat detection and **Trivy Operator** for continuous Kubernetes vulnerability scanning.
+- Configured **Longhorn distributed storage** to provide persistent volumes for Grafana, Prometheus, Alertmanager, Loki, and Open WebUI.
+- Secured remote access using **Tailscale + MagicDNS** and deployed **Open WebUI** with experimental **Kubernetes MCP** integration for AI-assisted operations.
 
 <p align="center">
 <a href="https://github.com/vijaymanda06/My-Home-lab">
