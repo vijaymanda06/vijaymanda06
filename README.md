@@ -66,8 +66,6 @@ AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab C
 <img src="https://github.com/vijaymanda06/kubernetes-self-hosted-home-lab/blob/main/screenshots/architecture.jpg" width="100%">
 </a>
 
-## Project Highlights
-
 - Built a **self-hosted hybrid Kubernetes platform** using **kubeadm** with an Ubuntu control plane and Oracle Cloud ARM worker nodes.
 - Implemented **production-grade observability** using **Prometheus, Grafana, Alertmanager, Node Exporter, and kube-state-metrics** with **Slack alerting**.
 - Designed a **centralized logging pipeline** using **Grafana Alloy** and **Loki** for cluster-wide log aggregation and troubleshooting.
