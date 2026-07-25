@@ -13,11 +13,6 @@ Bengaluru • Dec 2022 – Present
 
 Working with AWS infrastructure, Kubernetes workloads (EKS/ECS), CI/CD pipelines using Jenkins and GitLab, and monitoring systems supporting enterprise applications.
 
-</p>
-<p align="center">
-<a href="https://vijay-manda.web.app/">
-<img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
 
 <a href="https://www.linkedin.com/in/manda-vijay/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
