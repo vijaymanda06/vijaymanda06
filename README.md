@@ -74,14 +74,6 @@ AWS • Docker • Kubernetes • Terraform • Ansible • Jenkins • GitLab C
 </a>
 </p>
 
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">Ansible AWX Automation Platform</h3>
-
-</td>
-
 </tr>
 </table>
 
